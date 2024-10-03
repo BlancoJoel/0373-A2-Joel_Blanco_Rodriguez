@@ -13,9 +13,12 @@ Ni idea
 
 Los lenguajes de marcas son lo que se utiliza para "programar" una pagina web.
 
-    -. HTML
-    -. CSS
-    -. Python
+* Primer elemento de la sublista 2
+    * Segundo elemento de la sublista 2
+  
+1. HTML
+2. CSS
+3. Python
 
 |HTML|CSS|Python|
 |:----------:|:----------:|:----------:|
