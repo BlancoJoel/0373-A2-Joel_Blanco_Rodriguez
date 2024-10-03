@@ -54,6 +54,6 @@ CSS és un lenguaje de marcas que se utiliza para decorar un poco lo que viene s
 
 No
 
-![Imagen esquema de peticiones HTML](https://github.com/BlancoJoel/0373-A2-Joel_Blanco_Rodriguez/blob/main/foto_esquema_de_peticiones_HTML.jpg)[1^]
+![Imagen esquema de peticiones HTML](https://github.com/BlancoJoel/0373-A2-Joel_Blanco_Rodriguez/blob/main/foto_esquema_de_peticiones_HTML.jpg)[1]
 
 [^1]: Figura: Esquema de peticiones HTML
