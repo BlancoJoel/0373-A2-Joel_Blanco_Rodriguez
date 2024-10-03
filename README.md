@@ -12,6 +12,7 @@ Primera practica de lenguaje de marcas.
 |:HTML   :|:CSS    :|:Pytho  :|
 |:[Enlace](https://developer.mozilla.org/es/docs/Web/HTML):|:[Enlace](https://blog.hubspot.es/website/que-es-css):|:[Enlace](https://aws.amazon.com/es/what-is/python/):|
 
+
 1. ¿Qué es HTML ? ¿Sabes cómo se estructura?
    
  ```
