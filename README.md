@@ -2,6 +2,7 @@
 
 ### **1. ¿Qué es una página web?**
 
+No se explicarlo.
 
 
 ### **2. ¿Qué es un servidor web?**
@@ -12,7 +13,7 @@ Ni idea
 ### **3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?.**
 
 Los lenguajes de marcas son lo que se utiliza para "programar" una pagina web.
-
+Conozco los siguientes y mas abajo hay un enlace a una documentación.
 * HTML
 * CSS
 * Python
@@ -43,9 +44,11 @@ No.
 </html>
 ```
 
+
 ### **5. ¿Qué és CSS?**
 
 CSS és un lenguaje de marcas que se utiliza para decorar un poco lo que viene siendo la imagen de una pagina web.
+
 
 ### **6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:**
 
