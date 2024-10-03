@@ -35,3 +35,5 @@ Primera practica de lenguaje de marcas.
 5. ¿Qué es CSS?
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
+
+![Imagen esquema de peticiones HTML](https://github.com/BlancoJoel/0373-A2-Joel_Blanco_Rodriguez/blob/main/foto_esquema_de_peticiones_HTML.jpg)
