@@ -9,10 +9,10 @@ Primera practica de lenguaje de marcas.
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
 
-|       |       |        |
-|       |       |       |
+|:HTML   :|:CSS    :|:Pytho  :|
+|:[Enlace](https://developer.mozilla.org/es/docs/Web/HTML):|:[Enlace](https://blog.hubspot.es/website/que-es-css):|:[Enlace](https://aws.amazon.com/es/what-is/python/):|
 
-4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
+1. ¿Qué es HTML ? ¿Sabes cómo se estructura?
    
  ```
 <!DOCTYPE html>
