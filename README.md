@@ -2,19 +2,19 @@
 
 Primera practica de lenguaje de marcas.
 
-1. ¿Qué es una página web?
+## **1. ¿Qué es una página web?**
 
-2. ¿Qué es un servidor web?
+## **2. ¿Qué es un servidor web?**
 
 
-3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
+## **3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?.**
 
 |HTML|CSS|Python|
 |:----------:|:----------:|:----------:|
 |[Enlace](https://developer.mozilla.org/es/docs/Web/HTML)|[Enlace](https://blog.hubspot.es/websiteque-es-css)|[Enlace](https://aws.amazon.com/es/what-is/python/)|
 
 
-4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
+## **4. ¿Qué es HTML ? ¿Sabes cómo se estructura?**
    
  ```
 <!DOCTYPE html>
@@ -32,8 +32,8 @@ Primera practica de lenguaje de marcas.
 </html>
 ```
 
-5. ¿Qué es CSS?
+## **5. ¿Qué es CSS?**
 
-6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
+## **6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:**
 
 ![Imagen esquema de peticiones HTML](https://github.com/BlancoJoel/0373-A2-Joel_Blanco_Rodriguez/blob/main/foto_esquema_de_peticiones_HTML.jpg)
