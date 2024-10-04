@@ -18,9 +18,11 @@ Conozco los siguientes y mas abajo hay un enlace a una documentación.
 * CSS
 * Python
 
-|HTML|CSS|Python|
+|Nombre|Enlace|
 |:----------:|:----------:|:----------:|
-|[Enlace](https://developer.mozilla.org/es/docs/Web/HTML)|[Enlace](https://blog.hubspot.es/websiteque-es-css)|[Enlace](https://aws.amazon.com/es/what-is/python/)|
+|HTML  |[Enlace](https://developer.mozilla.org/es/docs/Web/HTML)|
+|CSS|[Enlace](https://blog.hubspot.es/websiteque-es-css)|
+|Python|[Enlace](https://aws.amazon.com/es/what-is/python/)|
 
 
 ### **4. ¿Qué és HTML ? ¿Sabes cómo se estructura?**
